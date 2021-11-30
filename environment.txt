@@ -1,0 +1,4 @@
+Host: sql11.freesqldatabase.com
+Database name: sql11454792
+Database user: sql11454792
+Database password: Avdy4BTB5q
